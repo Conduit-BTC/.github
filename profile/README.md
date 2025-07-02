@@ -19,8 +19,6 @@ Conduit makes unstoppable decentralized "de-commerce" apps and services. Sell an
 | 🧑‍💻 **Merchant Portal**          | Manage products, orders, payouts | [Repo](https://github.com/Conduit-BTC/merchant-portal)            |
 | 🛠️ **Merchant Services**          | Optional hosting, upgrades, help | [Repo](https://github.com/Conduit-BTC/merchant-services)          |
 
-![divider](https://conduit.market/assets/conduit-divider.svg)
-
 ## Our Spec
 
 Built on top of the Market Spec from GammaMarkets (aka NIP-99) for maximum interoperability between stores and markets:
