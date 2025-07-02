@@ -14,10 +14,10 @@ Conduit makes unstoppable decentralized "de-commerce" apps and services. Sell an
 
 | 📂 Project                         | Description                      | Link                                                              |
 | ---------------------------------- | -------------------------------- | ----------------------------------------------------------------- |
-| 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://github.com/Conduit-BTC/nostr-commerce-coordinator) |
-| 🛒 **Conduit Market**              | Shopper-first storefront         | [Repo](https://github.com/Conduit-BTC/conduit-market)             |
+| 🛒 **Conduit Market**              | Shopper-first storefront         | [Repo](https://github.com/Conduit-BTC/conduit-market-client)             |
 | 🧑‍💻 **Merchant Portal**          | Manage products, orders, payouts | [Repo](https://github.com/Conduit-BTC/merchant-portal)            |
-| 🛠️ **Merchant Services**          | Optional hosting, upgrades, help | [Repo](https://github.com/Conduit-BTC/merchant-services)          |
+| 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://github.com/Conduit-BTC/a-nostr-commerce-coordinator) |
+| 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://github.com/Conduit-BTC/nostr-commerce-schema)          |
 
 ## Our Spec
 
