@@ -19,6 +19,8 @@ Conduit makes unstoppable decentralized "de-commerce" apps and services. Sell an
 | 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://github.com/Conduit-BTC/a-nostr-commerce-coordinator) |
 | 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://github.com/Conduit-BTC/nostr-commerce-schema)          |
 
+See the rest on our [Repositories](https://github.com/orgs/Conduit-BTC/repositories) tab
+
 ## Our Spec
 
 Built on top of the Market Spec from GammaMarkets (aka NIP-99) for maximum interoperability between stores and markets:
