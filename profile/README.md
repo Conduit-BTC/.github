@@ -1,4 +1,4 @@
-# ✨ Conduit BTC ✨
+# ⚡🪬 Conduit BTC 🪬⚡
 
 ![Conduit Logo](https://conduit.market/assets/conduit-logo.svg)
 
