@@ -18,12 +18,12 @@ The repos here in Github will be archived very soon. In the meanwhile, head over
 
 | 📂 Project                         | Description                      | Link                                                              |
 | ---------------------------------- | -------------------------------- | ----------------------------------------------------------------- |
-| 🛒 **Conduit Market**              | Shopper-first storefront         | [Repo](https://github.com/Conduit-BTC/conduit-market-client)             |
-| 🧑‍💻 **Merchant Portal**          | Manage products, orders, payouts | [Repo](https://github.com/Conduit-BTC/merchant-portal)            |
-| 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://github.com/Conduit-BTC/a-nostr-commerce-coordinator) |
-| 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://github.com/Conduit-BTC/nostr-commerce-schema)          |
+| 🛒 **Conduit Market**              | Shopper-first storefront         | [Repo](https://gitlab.com/conduit-btc/conduit-market-client)             |
+| 🧑‍💻 **Merchant Portal**          | Manage products, orders, payouts | [Repo](https://gitlab.com/conduit-btc/merchant-portal)            |
+| 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://gitlab.com/conduit-btc/a-nostr-commerce-coordinator) |
+| 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://gitlab.com/conduit-btc/nostr-commerce-schema)          |
 
-See the rest on our [Repositories](https://github.com/orgs/Conduit-BTC/repositories) tab
+See the rest in our [Gitlab Repositories](https://github.com/gitlab.com/conduit-btc)
 
 ## Our Spec
 
