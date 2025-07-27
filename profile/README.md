@@ -10,7 +10,7 @@ Conduit makes unstoppable decentralized "de-commerce" apps and services. Sell an
 
 ---
 
-## We're moving to Gitlab!
+## ⚠️ We're moving to Gitlab!
 
 The repos here in Github will be archived very soon. In the meanwhile, head over to our [Gitlab](https://gitlab.com/conduit-btc) to see our full catalog of FOSS de-commerce software
 
