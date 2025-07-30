@@ -23,7 +23,7 @@ The repos here in Github will be archived very soon. In the meanwhile, head over
 | 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://gitlab.com/conduit-btc/a-nostr-commerce-coordinator) |
 | 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://gitlab.com/conduit-btc/nostr-commerce-schema)          |
 
-See the rest in our [Gitlab Repositories](https://github.com/gitlab.com/conduit-btc)
+See the rest in our [Gitlab Repositories](https://gitlab.com/conduit-btc)
 
 ## Our Spec
 
