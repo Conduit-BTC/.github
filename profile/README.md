@@ -1,5 +1,7 @@
 ![Conduit Logo](https://cdn.prod.website-files.com/67a08c4f7b1c5f99aa6e9201/67a1f51d61edb50c3ea0c182_conduit%20LOGO.png)
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Bitcoin](https://img.shields.io/badge/bitcoin-⚡-orange) ![Nostr](https://img.shields.io/badge/nostr-connected-purple)
+
 # Conduit
 
 Decentralized commerce on Nostr + Bitcoin Lightning. Merchants and buyers transact directly over the protocol — no platform custody of funds or user data.
