@@ -1,40 +1,26 @@
-# ⚡ Conduit BTC ⚡
+# Conduit
 
-![Conduit Logo](https://cdn.prod.website-files.com/67a08c4f7b1c5f99aa6e9201/67a1f51d61edb50c3ea0c182_conduit%20LOGO.png)
-
-![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Bitcoin](https://img.shields.io/badge/bitcoin-⚡-orange) ![Nostr](https://img.shields.io/badge/nostr-connected-purple)
-
-**The open commerce conduit for Nostr De-Commerce**
-
-Conduit makes unstoppable decentralized "de-commerce" apps and services. Sell anything, anywhere — no gatekeepers, no middlemen, just direct connection between Buyer and Seller, thanks to the Nostr network.
+Decentralized commerce on Nostr + Bitcoin Lightning. Merchants and buyers transact directly over the protocol — no platform custody of funds or user data.
 
 ---
 
-## ⚠️ We're moving to Gitlab!
+## Apps
 
-The repos here in Github will be archived very soon. In the meanwhile, head over to our [Gitlab](https://gitlab.com/conduit-btc) to see our full catalog of FOSS de-commerce software
+| App | Description | Live |
+|-----|-------------|------|
+| **Market** | Buyer marketplace — browse, cart, checkout, order tracking | [shop.conduit.market](https://shop.conduit.market) |
+| **Merchant Portal** | Seller dashboard — products, orders, invoicing, DM workspace | [sell.conduit.market](https://sell.conduit.market) |
 
-## 🚀 What’s here?
+## How It Works
 
-| 📂 Project                         | Description                      | Link                                                              |
-| ---------------------------------- | -------------------------------- | ----------------------------------------------------------------- |
-| 🛒 **Conduit Market**              | Shopper-first storefront         | [Repo](https://gitlab.com/conduit-btc/conduit-market-client)             |
-| 🧑‍💻 **Merchant Portal**          | Manage products, orders, payouts | [Repo](https://gitlab.com/conduit-btc/merchant-portal)            |
-| 🗂️ **Nostr Commerce Coordinator** | Orchestrates products & orders   | [Repo](https://gitlab.com/conduit-btc/a-nostr-commerce-coordinator) |
-| 🛠️ **Nostr Commerce Schema**          | Validators, types, & schemas | [Repo](https://gitlab.com/conduit-btc/nostr-commerce-schema)          |
+- **Products** are Nostr events (Kind 30402) published by merchants
+- **Orders** are NIP-17 encrypted DMs between buyer and merchant
+- **Payments** are Lightning invoices via NWC — no fund custody
+- **Identity** is your Nostr keypair via browser signer (Alby, nos2x, etc.)
 
-See the rest in our [Gitlab Repositories](https://gitlab.com/conduit-btc)
+Built on the [Market Spec](https://github.com/GammaMarkets/market-spec/blob/main/spec.md) from GammaMarkets (NIP-99) for interoperability between stores and markets.
 
-## Our Spec
+## Links
 
-Built on top of the Market Spec from GammaMarkets (aka NIP-99) for maximum interoperability between stores and markets:
-
-**🏛️ [Market Spec](https://github.com/GammaMarkets/market-spec/blob/main/spec.md)**
-
-## Join the Revolution!
-
-Let’s build unstoppable commerce together. See you on Nostr 👋
-
-**🌐 [conduit.market](https://conduit.market)**
-**💬 [Nostr Profile](https://njump.me/nprofile1qqsfmys8030rttmk77cumprnsqqt0whmg0fqkz3xcx8798ag8rf8z3sad6jak)**
-
+- [conduit.market](https://conduit.market)
+- [Nostr](https://njump.me/nprofile1qqsfmys8030rttmk77cumprnsqqt0whmg0fqkz3xcx8798ag8rf8z3sad6jak)
