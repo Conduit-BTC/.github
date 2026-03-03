@@ -12,8 +12,8 @@ Decentralized commerce on Nostr + Bitcoin Lightning. Merchants and buyers transa
 
 | App | Description | Live |
 |-----|-------------|------|
-| **Market** | Buyer marketplace — browse, cart, checkout, order tracking | [shop.conduit.market](https://shop.conduit.market) |
-| **Merchant Portal** | Seller dashboard — products, orders, invoicing, DM workspace | [sell.conduit.market](https://sell.conduit.market) |
+| 🛒 **Market** | Buyer marketplace — browse, cart, checkout, order tracking | [shop.conduit.market](https://shop.conduit.market) |
+| 💰 **Merchant** | Seller dashboard — products, orders, invoicing, DM workspace | [sell.conduit.market](https://sell.conduit.market) |
 
 ## How It Works
 
